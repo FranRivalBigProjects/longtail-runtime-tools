@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Avg pause: '+(+time.value/+events.value).toFixed(2)+' ms';}

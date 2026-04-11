@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Objects: '+(code.value.match(/\{/g)||[]).length;}

@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText=+bun.value>+node.value?'Bun faster':'Node faster';}

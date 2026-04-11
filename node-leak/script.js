@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Leaks: '+(log.value.match(/leak/gi)||[]).length;}

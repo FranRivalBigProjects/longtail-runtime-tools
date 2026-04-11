@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Await ops: '+(code.value.match(/await/g)||[]).length;}
